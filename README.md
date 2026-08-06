@@ -1,4 +1,4 @@
-# Subpolar-AMOC-Variability1
+# North-Atlantic-AMOC-1Variability
 Data and analysis scripts supporting the study of density-space transport variability and AMOC variability using CMIP6 models and OSNAP observations.
 
 This repository contains data and analysis scripts supporting the results in:
